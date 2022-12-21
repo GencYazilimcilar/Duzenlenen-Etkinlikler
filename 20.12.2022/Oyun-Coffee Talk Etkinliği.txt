@@ -1,7 +1,3 @@
-Dün yaptığımız etkinlik çok iyiydi! Katılan herkese teşekkür ederim.
-
-Bazı önemli notlar almıştık. O aldığımız notları derleyip atıyorum.
-
 Kendimizi geliştirebileceğimiz ve algoritma problemleri çözebileceğimiz siteler -> LeetCode, Hackerrank, Euler Project
 Nesneye yönelik programlamanın temel prensipleri -> Encapsulation, Inheritance, Polymorphism, Abstraction
 
