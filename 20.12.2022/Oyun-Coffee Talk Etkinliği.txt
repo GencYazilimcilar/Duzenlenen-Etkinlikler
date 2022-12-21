@@ -1,0 +1,17 @@
+Dün yaptığımız etkinlik çok iyiydi! Katılan herkese teşekkür ederim.
+
+Bazı önemli notlar almıştık. O aldığımız notları derleyip atıyorum.
+
+Kendimizi geliştirebileceğimiz ve algoritma problemleri çözebileceğimiz siteler -> LeetCode, Hackerrank, Euler Project
+Nesneye yönelik programlamanın temel prensipleri -> Encapsulation, Inheritance, Polymorphism, Abstraction
+
+Denizlideki oyun firmaları -> First Nation Games, Funika Games, Tiplay Studio, Ncy Interactive, Data Games, Any Game Labs, Vulpis Game, Rooster Games, ...
+
+Bu firmalardan staj, çıraklık isteğin bulunabilirsiniz
+
+Any Game Labs stajyer başvuru formu = 
+https://docs.google.com/forms/d/e/1FAIpQLSfKP-EhcT38r9WmjPv98ZFm2hRwoRtrm4hP0fwt_SCUO_1Qsw/viewform
+
+Jason Schreier'ın yazdığı; "Kan ter ve pikseller kitabı" ve "Reset At" kitabı.
+
+Oyun sektöründeki departmanları anlayabilmeniz için oluşturulmuş güzel bir problem: "The Door Problem"
